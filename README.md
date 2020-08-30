@@ -1,3 +1,3 @@
 # curl-Notes
 
-curl -u "repoName" https://api.github.com/user/repos -d '{"name":"repoName","private":true}'
+curl -u "userNameHere" https://api.github.com/user/repos -d > '{"name":"repoNameHere","private":true}' 
